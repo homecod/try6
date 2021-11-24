@@ -19,7 +19,7 @@ nav{
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../IMG/1stbackground.png);
+    background-image: url(IMG/1stbackground.png);
 }
 .row{
     margin: auto;
